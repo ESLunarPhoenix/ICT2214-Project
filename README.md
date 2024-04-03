@@ -39,11 +39,12 @@ Finally, we can use the password enumeration feature by selecting option 2 to ex
 <img width="407" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/89129080/f05c6b4e-1ebf-4354-98d8-610544b33d37">
 
 # Database Enumeration
+MongoDB URL and ObjectIDs inside the mongoDB_Enum.txt file can be used for testing this feature.
+
 To start off, the user using NoSQL Bandit is able to choose an option from the tool menu, to perform database enumeration, the user will have to select option 3.
 After option 3 is selected the tool will prompt the user to enter the MongoDB URL they wish to view the contents from.
 
 <img width="407" alt="test3" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/121931429/46483784-2646-45de-bffd-a2d3bc7d9b39">
-
 
 Once the user enters the MongoDB URL, the tool will prompt the user to enter the ObjectID of the database field he/she wishes to view. The search query works by reading the ObjectID of the user input in the database, and displaying the relevant fields for the user to see.
 
