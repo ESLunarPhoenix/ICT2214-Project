@@ -4,6 +4,10 @@ ICT2214 Web Security Project Group A01-G 15
 # Website Vulnerability Assessment
 
 # Username and Password Enumeration
+To use these 2 features,we will use the login form to extract the usernames and passwords from the database. 
+We will go to the login form using burpsuite to find the user and password parameter by entering a random username and password and submit on the login form.
+<img width="407" alt="test3" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/89129080/050a4225-ddf4-490d-8cee-d625040f003a">
+
 
 # Database Enumeration
 To start off, the user using NoSQL Bandit is able to choose an option from the tool menu, to perform database enumeration, the user will have to select option 3.
