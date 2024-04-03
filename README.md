@@ -1,12 +1,15 @@
-# ICT2214-Project Group-A01-G 15
-# USER MANUAL
+# ICT2214-Project Group-A01-G 15 - NoSQL Bandit
+1. Download the nosql_bandit_MAIN.py file.
+
+2. Run the tool using python 3.
+``
 
 # Website Vulnerability Assessment
 In order to perform a website vulnerability assessment for nosql injection vulnerabilities, the user will first select option 5.
 The user will then be given the option to test for login forms(option 1) or a url with GET parameters(option 2).
 ![image](https://github.com/ESLunarPhoenix/ICT2214-Project/assets/33411285/be50779d-af0f-498e-b87b-e2d8c69ff7f4)
 
-The user will select option 1 to test for login forms. NoSQL Bandit will test if the username and password parameters in the login form is vulnerabile to NoSQL injection attacks by injecting malicious payloads into it. It will then inform the user if the username and password parameters are vulnerable to NoSQL injection attacks as well as the malicious payload used to trigger the vulnerability. 
+The user will select option 1 to test for login forms. NoSQL Bandit will test if the username and password parameters in the login form is vulnerable to NoSQL injection attacks by injecting malicious payloads into it. It will then inform the user if the username and password parameters are vulnerable to NoSQL injection attacks as well as the malicious payload used to trigger the vulnerability. 
 ![image](https://github.com/ESLunarPhoenix/ICT2214-Project/assets/33411285/b48d0a73-0191-4416-9295-e421012b607e)
 
 The user will select option 2 to test for a url with GET parameters. NoSQL Bandit will test if the GET parameter is vulnerable by injecting malcious payloads into it. It will then inform the user which payload the GET parameter is vulnerable or not vulnerable to.
