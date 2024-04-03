@@ -1,4 +1,5 @@
 # ICT2214-Project Group-A01-G 15 - NoSQL Bandit
+
 1. Download the nosql_bandit_MAIN.py file.
 
 2. Run the tool using python 3. Python 3 can be downloaded from the official Python website here: [https://www.python.org/downloads/](url)
