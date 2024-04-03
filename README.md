@@ -16,6 +16,7 @@ Once the user enters the MongoDB URL, the tool will prompt the user to enter the
 
 
 The tool will now display the contents of the ObjectID. The figure below shows the field names “username”, and “password” from the MongoDB database. The user can get the relevant data from a specific ObjectID, and also view other data by searching other ObjectIDs. The tool will prompt the user to input a new ObjectID after displaying the fields of an ObjectID. 
+
 <img width="407" alt="test" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/121931429/4757a7a7-5e2d-4d3b-9c60-6d7628709aca">
 
 # Database Fingerprinting
