@@ -15,6 +15,7 @@ After that, we will then review the response text in burpsuite that indicated th
 We will then use the username enumeration feature by selecting option 1 to extract the valid usernames from the database through the login form.
 
 <img width="407" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/89129080/52bee4e2-be4a-444a-aa4e-e36080d88b51">
+
 <img width="407" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/89129080/b5b73dcd-e0ed-4a22-9ce6-c2b572af4b79">
 
 Finally, we can use the password enumeration feature by selecting option 2 to extract the password of the specific username.
