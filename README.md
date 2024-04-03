@@ -1,8 +1,8 @@
 # ICT2214-Project Group-A01-G 15 - NoSQL Bandit
 1. Download the nosql_bandit_MAIN.py file.
 
-2. Run the tool using python 3. Python 3 can be downloaded from the official Python website.[https://www.python.org/downloads/](url)
-
+2. Run the tool using python 3. Python 3 can be downloaded from the official Python website here: [https://www.python.org/downloads/](url)
+<img width="407" alt="python" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/121931429/4d64f761-04c7-4b7e-84ba-260f18993bce">
 
 # Website Vulnerability Assessment
 In order to perform a website vulnerability assessment for nosql injection vulnerabilities, the user will first select option 5.
