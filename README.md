@@ -4,6 +4,8 @@
 2. Run the tool using python 3. Python 3 can be downloaded from the official Python website here: [https://www.python.org/downloads/](url)
 <img width="407" alt="python" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/121931429/4d64f761-04c7-4b7e-84ba-260f18993bce">
 
+3. The user will now be able to use the tool and select desired options from the toolkit menu.
+
 # Website Vulnerability Assessment
 In order to perform a website vulnerability assessment for nosql injection vulnerabilities, the user will first select option 5.
 The user will then be given the option to test for login forms(option 1) or a url with GET parameters(option 2).
