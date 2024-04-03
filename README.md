@@ -6,6 +6,7 @@ ICT2214 Web Security Project Group A01-G 15
 # Username and Password Enumeration
 To use these 2 features,we will use the login form to extract the usernames and passwords from the database. 
 We will access the login form using burpsuite to find the user and password parameter by entering a random username and password and submit on the login form.
+<img width="407" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/89129080/c359574b-8511-4eef-8550-33408b5cb9c3">
 
 <img width="407" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/89129080/050a4225-ddf4-490d-8cee-d625040f003a">
 
@@ -15,7 +16,6 @@ After that, we will then review the response text in burpsuite that indicated th
 
 We will then use the username enumeration feature by selecting option 1 to extract the valid usernames from the database through the login form.
 
-<img width="407" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/89129080/52bee4e2-be4a-444a-aa4e-e36080d88b51">
 
 <img width="407" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/89129080/b5b73dcd-e0ed-4a22-9ce6-c2b572af4b79">
 
