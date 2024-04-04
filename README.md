@@ -67,4 +67,6 @@ The user will need to go to the target website and locate a page that has GET pa
 
 The user will then need to input this URL into the tool. The tool will then automatically attempt to fingerprint the database and provide an output at the end.
 
+![Scanning](https://github.com/ESLunarPhoenix/ICT2214-Project/assets/25898256/3bd47a19-30b8-4637-a102-4967d2fc7b20)
+
 ![Output](https://github.com/ESLunarPhoenix/ICT2214-Project/assets/25898256/3e6ca34c-f18c-4e5c-97db-c6d0ca3806c2)
