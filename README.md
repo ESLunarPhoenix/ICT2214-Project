@@ -56,8 +56,12 @@ The tool will now display the contents of the ObjectID. The figure below shows t
 <img width="407" alt="test" src="https://github.com/ESLunarPhoenix/ICT2214-Project/assets/121931429/4757a7a7-5e2d-4d3b-9c60-6d7628709aca">
 
 # Database Fingerprinting
+The user should select option 4 to execute the Database Fingerprinting.
+Upon selecting option 4, the user will see a request to provide a URL such as the following:
+![tool](https://github.com/ESLunarPhoenix/ICT2214-Project/assets/25898256/fe76de01-406d-45d7-bfa8-2c2e79c4a13a)
 
+The user will need to go to the target website and locate a page that has GET parameters such as in the following image:
+![portswig](https://github.com/ESLunarPhoenix/ICT2214-Project/assets/25898256/55682d37-9103-4d1f-9109-859bec680c54)
 
-
-
-
+The user will then need to input this URL into the tool. The tool will then automatically attempt to fingerprint the database and provide an output at the end.
+![Output](https://github.com/ESLunarPhoenix/ICT2214-Project/assets/25898256/3e6ca34c-f18c-4e5c-97db-c6d0ca3806c2)
